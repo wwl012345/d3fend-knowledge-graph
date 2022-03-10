@@ -24,6 +24,11 @@
 - [18 浅谈我所理解的应急响应流程](https://www.freebuf.com/column/193690.html)
 - [19 应急响应的整体思路和基本流程](https://www.freebuf.com/articles/terminal/192859.html)
 - [20 “企业应急响应和反渗透”之真实案例分析](http://drops.xmd5.com/static/drops/tips-8130.html)
+- [21 探索MITRE Shield如何用于主动防御](https://mp.weixin.qq.com/s/K95QEs2UaUyvoUsVvUGDXg)
+- [22 入侵检测系列-上：基于私有协议的加密流量分析思路（Teamviewer篇）](https://www.anquanke.com/post/id/223106)
+- [23 入侵检测系列-中：基于私有协议的加密流量分析思路（Teamviewer篇）](https://www.anquanke.com/post/id/225394)
+- [24 入侵检测系列-下：基于私有协议的加密流量分析思路（Teamviewer篇）](https://www.anquanke.com/post/id/226531)
+- [25 基于流量的网络入侵检测系统实践若干问题分析与思考](https://www.freebuf.com/articles/es/224574.html)
 
 
 相关Github
@@ -31,4 +36,13 @@
 
 - https://github.com/theLSA/emergency-response-checklist `应急响应指南`
 - https://github.com/meirwah/awesome-incident-response/ `安全事件响应的工具与资源的列表`
+- https://github.com/xander-wang/logvision `分布式实时日志分析与入侵检测系统`
+- https://github.com/xiyoulaoyuanjia/sAoccec/ `ossec 基于主机的入侵检测指南`
 
+
+学术专利
+---
+- [01 一种基于多主机日志关联的入侵检测方法](https://patents.google.com/patent/CN103824069A/zh)
+- [02 一种海量日志关联分析方法及系统](https://patents.google.com/patent/CN101741633A/zh)
+- [03 基于日志分析的网络异常行为检测关键技术研究](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201701&filename=1016776022.nh&uniplatform=NZKPT&v=N-4LBc2DkqqoAQS7nFsoEbzZKMMaps06KEE3AUGiOS99E8JZ_gOVhxBScQ2jxP_d)
+- [04 Intrusion Detection Based on Sequential Information Preserving Log Embedding Methods and Anomaly Detection Algorithms](https://ieeexplore.ieee.org/abstract/document/9399070) 
